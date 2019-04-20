@@ -94,5 +94,7 @@
 	-->
 	<modules>
 		<module>cloudCommon</module>
+		<module>cloudProvide8001</module>
+		<module>cloudProvideDept8001</module>
 	</modules>
 </project>
