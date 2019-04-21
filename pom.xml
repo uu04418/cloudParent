@@ -69,7 +69,7 @@
 		</dependencies>
 	</dependencyManagement>
 
-	<!--  
+	
 	<build>
 		<finalName>microservicecloud</finalName>
 		<resources>
@@ -91,10 +91,14 @@
 		</plugins>
 	</build>
 	
-	-->
+
 	<modules>
 		<module>cloudCommon</module>
 		<module>cloudProvide8001</module>
 		<module>cloudProvideDept8001</module>
+		<module>cloudConsumerDept80</module>
+		<module>cloudEureka7001</module>
+		<module>cloudEureka7002</module>
+		<module>cloudEureka7003</module>
 	</modules>
 </project>
