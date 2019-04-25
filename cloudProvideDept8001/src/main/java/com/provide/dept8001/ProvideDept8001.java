@@ -10,6 +10,9 @@ public class ProvideDept8001 {
 	
 	public static void main(String[] args) {
 		System.out.println("开发商品详情........ 完成 了老大提交代码了啊");
+		System.out.println("开发商品详情........ 完成 了老大提交代码了啊");
+		System.out.println("开发商品详情........ 完成 了老大提交代码了啊");
+		System.out.println("开发商品详情........ 完成 了老大提交代码了啊");
 		SpringApplication.run(ProvideDept8001.class, args);
 	}
 
