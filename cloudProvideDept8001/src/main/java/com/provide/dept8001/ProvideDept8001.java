@@ -9,6 +9,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 public class ProvideDept8001 {
 	
 	public static void main(String[] args) {
+		System.out.println("this is a new");
 		SpringApplication.run(ProvideDept8001.class, args);
 	}
 

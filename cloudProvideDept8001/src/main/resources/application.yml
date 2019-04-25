@@ -13,7 +13,8 @@ spring:
    datasource:
     type: com.alibaba.druid.pool.DruidDataSource            # 当前数据源操作类型
     driver-class-name: com.mysql.jdbc.Driver              # mysql驱动包
-    url: jdbc:mysql://192.168.255.156:3306/cloudDB8001              # 数据库名称
+    #url: jdbc:mysql://192.168.255.156:3306/cloudDB8001              # 数据库名称
+    url: jdbc:mysql://120.79.101.80:3306/cloudDB8001
     username: root
     password: hyg000614
     dbcp2:
