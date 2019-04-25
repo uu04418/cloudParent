@@ -100,5 +100,6 @@
 		<module>cloudEureka7001</module>
 		<module>cloudEureka7002</module>
 		<module>cloudEureka7003</module>
+		<module>sss</module>
 	</modules>
 </project>
